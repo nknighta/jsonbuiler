@@ -1,0 +1,1 @@
+this is practics of typescript generics type.

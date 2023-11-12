@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "allowJs": true,
+        "rootDir": "./src",
+        "outDir": "./dist",
+    }
+}
