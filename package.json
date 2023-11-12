@@ -1,5 +1,5 @@
 {
-  "name": "jsonbuiler",
+  "name": "@nknighta/jsonbuiler",
   "version": "0.2.0",
   "main": "dist/index.js",
   "scripts": {
